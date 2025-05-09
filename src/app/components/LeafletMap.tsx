@@ -1,6 +1,5 @@
 import { MapContainer, TileLayer, Marker } from "react-leaflet"
 import { LatLngExpression, Icon } from "leaflet"
-import L from "leaflet"
 import "leaflet/dist/leaflet.css"
 
 const markerIcon = new Icon({
