@@ -1,4 +1,3 @@
-// app/page.tsx
 import { UserService } from './services/UserService';
 import UserList from './components/UserList';
 import Header from './components/Header';
